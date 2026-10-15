@@ -17,7 +17,8 @@
 
   
 
-- 👨‍💻 All of my projects are available at {lgrtech98.github.io}
+- 👨‍💻 All of my projects are available at .[LGR FASHION]
+[https://bananarepublic.gap.com/?ssiteID=BR]
   
 
 - 💬 Ask me about **React, vue**
